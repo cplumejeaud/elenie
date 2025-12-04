@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gare de Dunkerque",
+        "description": "Arrivées depuis Paris\n\nZone de départ des bus, des taxis, quelques hôtels\nZone de repos, quelques personnes qui passent des nuits à la gare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.368913,
+          51.030775
+        ]
+      }
+    }
+  ]
+}

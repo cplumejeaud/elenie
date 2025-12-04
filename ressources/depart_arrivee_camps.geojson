@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/golf-24_1.png"
+        },
+        "name": "Départ du camp",
+        "description": "Lieu où se gare le bus de l'AFEJI pour partir par la suite faire des Mise à l'abris dans les centres d'accueil et évaluation des situations éparpillés dans la région"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.256825,
+          51.001388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+          "iconClass": "Default"
+        },
+        "description": "Lieu de dépôt des taxis, des associations, de retour des personnes après des try quand ils reviennent à pieds ou en bus depuis l'arrêt de Auchan",
+        "name": "Lieu d'arrivé sur le camp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.254572,
+          51.000794
+        ]
+      }
+    }
+  ]
+}

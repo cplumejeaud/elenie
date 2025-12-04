@@ -1,0 +1,180 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_umap_options": {
+        "color": "Darkpurple"
+        },
+        "name": "",
+        "description": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.254515,
+            51.000782
+          ],
+          [
+            2.256317,
+            51.000715
+          ],
+          [
+            2.257497,
+            51.001943
+          ],
+          [
+            2.260051,
+            51.002739
+          ],
+          [
+            2.262197,
+            51.0034
+          ],
+          [
+            2.263527,
+            51.003886
+          ],
+          [
+            2.263699,
+            51.004183
+          ],
+          [
+            2.268176,
+            51.005163
+          ],
+          [
+            2.271609,
+            51.006054
+          ],
+          [
+            2.277303,
+            51.007364
+          ],
+          [
+            2.277542,
+            51.007625
+          ],
+          [
+            2.278143,
+            51.007537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lieu de rassemblement ",
+        "description": "Debrief avant de partir aux arrêts de bus (soirée) "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.262204,
+          51.003492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Point de rassemblement",
+        "description": "Lieu de rassemblement, debrief dans la journée "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.254508,
+          50.995307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "trajet 2",
+        "description":""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.255387,
+            51.005511
+          ],
+          [
+            2.256975,
+            51.003891
+          ],
+          [
+            2.254915,
+            51.003486
+          ],
+          [
+            2.254958,
+            51.003082
+          ],
+          [
+            2.263756,
+            51.004188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trajet 3",
+        "description":""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.263277,
+            51.004799
+          ],
+          [
+            2.263706,
+            51.004233
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trajet 4",
+        "description":""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.254436,
+            51.000764
+          ],
+          [
+            2.249801,
+            51.001021
+          ],
+          [
+            2.249458,
+            51.001628
+          ],
+          [
+            2.251861,
+            51.0026
+          ],
+          [
+            2.255015,
+            51.003045
+          ]
+        ]
+      }
+    }
+  ]
+}

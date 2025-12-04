@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "geo_point_2d": [
+          51.00735930029777,
+          2.277560200648101
+        ],
+        "accessible": "1- Très bon",
+        "nom_arret": "PUYTHOUCK",
+        "filename": "Transport_arrets_bus",
+        "desserte": "C1, C2, C4, L17, L18, L19, L22, L23, L25, L15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27756,
+          51.007359
+        ]
+      }
+    }
+  ]
+}

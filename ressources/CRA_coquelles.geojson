@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+	  "properties": {
+        "name": "CRA coquelles",
+        "description": "Lieu de mise à l'abri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.811796,
+          50.931012
+        ]
+      }
+    }
+  ]
+}

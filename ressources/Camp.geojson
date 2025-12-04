@@ -1,0 +1,337 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AFEJI",
+        "description": "Bus de l'AFEJI pour emmener en mise à l'abris dans des foyers pour les mineurs ou dans des Centres d'accueil et d'orientation (CAO) ou dans des centres d'accueil et d'évaluation des situation (CAES)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.256553,
+          51.000766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Distro soir",
+        "description": "Point de distribution à l'extérieur du camp :\n- distribution du soir\n- distribution pour les femmes et familles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.252455,
+          51.001618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "shop",
+        "description": "Vente : cigarettes, gateaux, boissons..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.254314,
+          50.998875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "shop",
+        "description":""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.254894,
+          50.998382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "shop kebab",
+        "description":""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.254368,
+          50.998396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "shop kebab",
+        "description":""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.254357,
+          50.998173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "shop restaurant",
+        "description":""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.254862,
+          50.998571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "shop restaurant",
+        "description":""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.254293,
+          50.999118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "shop vente",
+        "description":""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.254325,
+          50.998639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "shop vente",
+        "description": "vent : cigarette, gateaux, boissons\ntéléphones, chargeurs, cartes sim..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.254894,
+          50.998754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zone d'entrée / accueil",
+        "description": "Tente et \"restaurant\" d'accueil, sorte de salle d'attente "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.254304,
+          51.000562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zone de distro 1",
+        "description": "Point d'eau et zone de distribution des associations\nLieu de rencontre, lieu de stationnement"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.254756,
+              51.000627
+            ],
+            [
+              2.255042,
+              51.000647
+            ],
+            [
+              2.255264,
+              51.000131
+            ],
+            [
+              2.254776,
+              51.000071
+            ],
+            [
+              2.254756,
+              51.000627
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zone de distro 2",
+        "description":""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.253982,
+              50.999978
+            ],
+            [
+              2.254325,
+              50.999996
+            ],
+            [
+              2.253939,
+              50.999996
+            ],
+            [
+              2.254354,
+              50.999987
+            ],
+            [
+              2.254379,
+              50.999376
+            ],
+            [
+              2.253864,
+              50.999349
+            ],
+            [
+              2.253982,
+              50.999978
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zone de distro 3",
+        "description": "Distro par les asso \n- petits déjeuners...\n- project play, jeux pour les enfants"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.254872,
+              50.999416
+            ],
+            [
+              2.255259,
+              50.999403
+            ],
+            [
+              2.255237,
+              50.998971
+            ],
+            [
+              2.254851,
+              50.998957
+            ],
+            [
+              2.254872,
+              50.999416
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zone de distro 4",
+        "description": "Point d'eau\ninstallation par les asso :\n- Charges\n- douches\n- jeux\n- barbier / coiffeur "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.254965,
+              50.998101
+            ],
+            [
+              2.255523,
+              50.998101
+            ],
+            [
+              2.255523,
+              50.997426
+            ],
+            [
+              2.254922,
+              50.997439
+            ],
+            [
+              2.254965,
+              50.998101
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zone distro 5",
+        "description": "Point d'eau\nInstallation des charges\nInstallation des douches\nZone de jeu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.255008,
+              50.99613
+            ],
+            [
+              2.255652,
+              50.996157
+            ],
+            [
+              2.255781,
+              50.99559
+            ],
+            [
+              2.255051,
+              50.995509
+            ],
+            [
+              2.255008,
+              50.99613
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Try_commune",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "commune": "Boulogne", "id": 2, "sens": 0 }, "geometry": { "type": "Point", "coordinates": [ 1.606007, 50.768806 ] } },
+{ "type": "Feature", "properties": { "commune": "Boulogne", "id": 6, "sens": 1 }, "geometry": { "type": "Point", "coordinates": [ 1.544045619788502, 50.871619369111869 ] } },
+{ "type": "Feature", "properties": { "commune": "Calais", "id": 7, "sens": 3 }, "geometry": { "type": "Point", "coordinates": [ 1.635042102535624, 51.02739300906881 ] } },
+{ "type": "Feature", "properties": { "commune": "Calais", "id": 8, "sens": 2 }, "geometry": { "type": "Point", "coordinates": [ 1.750574, 50.946311 ] } },
+{ "type": "Feature", "properties": { "commune": "Gravelines", "id": 11, "sens": 5 }, "geometry": { "type": "Point", "coordinates": [ 1.968181768186103, 51.073662407075823 ] } },
+{ "type": "Feature", "properties": { "commune": "Gravelines", "id": 12, "sens": 4 }, "geometry": { "type": "Point", "coordinates": [ 2.107887, 51.005309 ] } },
+{ "type": "Feature", "properties": { "commune": "Dunkerque", "id": 14, "sens": 7 }, "geometry": { "type": "Point", "coordinates": [ 2.301321433836582, 51.104508672413829 ] } },
+{ "type": "Feature", "properties": { "commune": "Dunkerque", "id": 15, "sens": 6 }, "geometry": { "type": "Point", "coordinates": [ 2.453098, 51.062885 ] } }
+]
+}

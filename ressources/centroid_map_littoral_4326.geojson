@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "centroid_map_littoral_4326",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "MINX": 594577.62902217929, "MINY": 7066681.60721594, "MAXX": 675887.27905128221, "MAXY": 7117714.1396148475, "CNTX": 635232.45403673081, "CNTY": 7092197.8734153938, "AREA": 4149437349.4540224, "PERIM": 264684.36485602078, "HEIGHT": 51032.532398907468, "WIDTH": 81309.650029102922 }, "geometry": { "type": "Point", "coordinates": [ 2.080824485799732, 50.922007567158204 ] } }
+]
+}
