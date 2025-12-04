@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flux migratoires Dunkerque</title>
+    {{ js_resources|safe }}
+    {{ css_resources|safe }}
+   
+    <style>
+        body {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+
+        #graph-container {
+            flex: 0.2;  /* Adjust the width of the graph container */
+            margin: 10px;
+        }
+
+        #maps-container {
+            flex: 1;
+            margin: 10px;
+        }
+
+        #maps-container div {
+            margin-bottom: 20px;
+        }
+
+        .map-title, .graph-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        /* 
+        .bk-DateSlider {
+            align-content: center;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }*/
+    </style>
+</head>
+<body>
+    <div id="graph-container">
+        <h1>Cartographie des flux migratoires à Dunkerque</h1>
+        <div>
+            <h2 class="graph-title">Graphique des conditions météo au mois d'août à Dunkerque en 2022</h2>
+            <div id="graph_weather">
+                {{ p_div|safe }}
+                {{ p_script|safe }}
+            </div>
+        </div>
+        <h2>Choosen date for animation</h2>
+        <div id="date-param">
+            {{ p_msg|safe }}
+        </div>
+        <h2>Crédits</h2>
+        <div>
+            <p>Authors of this project are <b>Elenie Sarciat</b> (elenie.sarciat@ulb.be) and <b>Christine Plumejeaud-Perreau</b> (christine.perreau@univ-poitiers.fr), UMR 7301 Migrinter, Poitiers, France</p>
+            <p>Most of the data have been collected by Elenie Sarciat during the 2022 summer at Dunkerque</p>
+            <p>A thank-you to the three students of Master SPE M2 at La Rochelle who collaborated during November 2023 on this project : </p>
+                <ul>Md Saiful Islam, M2 GPL - geophysique </ul>
+                <ul>Hannah Metaireau, M2 GEEL - biologie </ul>
+                <ul>Camille Saint-Picq, M2 GEEL - biologie </ul>
+            <p>Data and code under Licence CC4.0 BY-NC-SA</p>
+        </div>
+    </div>
+    
+    <div id="maps-container">
+        <div>
+            <h2 class="map-title">Carte du littoral</h2>
+            <div id="map_lit"> {{ m2_html|indent(4)|safe }}</div>
+        </div>
+        <div>
+            <h2 class="map-title">Carte du camp</h2>
+            <div id="map_camp"> {{ m_html|indent(4)|safe }}</div>
+        </div>
+    </div>
+</body>
+</html>
