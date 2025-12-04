@@ -17,7 +17,7 @@ Conception  : Elenie Sarciat et Christine Plumejeaud-Perreau, UMR 7301 Migrinter
  5, rue Théodore Lefebvre
  86073 POITIERS CEDEX 9
 
-Un article site ce travail et recontextualise le camp. 
+Un article cite ce travail et recontextualise le camp. 
 ```
 Thomas Lacroix, « L’usage politique de l’environnement dans la fabrique des frontières : l’écotone migratoire de Calais », e-Migrinter [En ligne], 25 | 2025, mis en ligne le 01 avril 2025, consulté le 04 décembre 2025. URL : http://journals.openedition.org/e-migrinter/4956 ; DOI : https://doi.org/10.4000/13r3d
 ```
