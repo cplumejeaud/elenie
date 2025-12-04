@@ -1,7 +1,7 @@
 # elenie
 code de http://meteoflow.plumegeo.fr
 
-Cette application a été développée comme un petit prototype pour réfléchir à des idées de géovisualisation liée à la dynamique du camps de réfugiés à Grande-Synthe, développé en 2023 avec des données d'observation de l'été 2022. 
+Cette application a été développée comme un petit prototype pour réfléchir à des idées de géovisualisation liée à la dynamique du camp de réfugiés à Grande-Synthe, développé en 2023 avec des données d'observation de l'été 2022. 
 Conception  : Elenie Sarciat et Christine Plumejeaud-Perreau, UMR 7301 Migrinter
 
 > Elenie SARCIAT (elenie.sarciat@ulb.be)
